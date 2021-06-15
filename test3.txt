@@ -1,2 +1,0 @@
-This is 3rd test for GIT
-Use git add and then git commit then git push
